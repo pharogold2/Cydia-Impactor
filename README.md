@@ -216,4 +216,4 @@ Cydia Impactor is available as a complete free version with all features and upd
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-21 22:06:19 UTC
+**Last updated:** 2026-10-22 01:13:37 UTC
